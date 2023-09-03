@@ -3,10 +3,9 @@ Blocklists for Pi-Hole
 
 ByPassDNS:
 
-Facebook: 
-Messenger: 
+Facebook: https://github.com/EmbitServ/blocklist/raw/main/facebook.txt
 Instagram: https://github.com/EmbitServ/blocklist/raw/main/instagram.txt
-WhatsApp: 
+WhatsApp: https://github.com/EmbitServ/blocklist/raw/main/whatsapp.txt
 
 Tiktok: 
 Kwai: 
