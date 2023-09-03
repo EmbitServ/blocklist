@@ -5,7 +5,7 @@ ByPassDNS:
 
 Facebook: 
 Messenger: 
-Instagram: 
+Instagram: https://github.com/EmbitServ/blocklist/raw/main/instagram.txt
 WhatsApp: 
 
 Tiktok: 
