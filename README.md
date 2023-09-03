@@ -3,14 +3,14 @@ Blocklists for Pi-Hole
 
 ByPassDNS:
 
-Facebook:
-Messenger:
-Instagram:
-WhatsApp:
+Facebook: 
+Messenger: 
+Instagram: 
+WhatsApp: 
 
-Tiktok:
-Kwai:
-Vimeo:
+Tiktok: 
+Kwai: 
+Vimeo: 
 
-YouTube:
+YouTube: 
 
