@@ -1,5 +1,4 @@
-# blocklist
-Blocklists for Pi-Hole <br>
+# Blocklists for Pi-Hole
 
 ByPassDNS: <br>
 
